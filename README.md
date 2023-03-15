@@ -13,7 +13,7 @@ In this project, I created and connected Virtual Networks from different regions
 - PowerShell<br/> 
 
 <h2>Environment Used</h2>
-- Server 2019<br/> 
+- Windows Server 2019<br/> 
 
 <p align="center">
 <h2>Part 1-Created Virtual Networks and Subnets:</h2>
