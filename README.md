@@ -6,9 +6,10 @@ In this project, I created and connected Virtual Networks from different regions
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/TCKsyEl.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VpZmo5i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Languages and Utilities Used</h2>
+- Azure DNS services<br/> 
 - Bash<br/> 
 - PowerShell<br/> 
 
@@ -45,7 +46,7 @@ Subnets that were created for the Research VNet: <br/>
 <p align="center">
 <h2>Part 2-Configured DNS for company Dannytech :</h2>
 <p align="center">
-A Private DNS zone was created for Dannytech.com.The VNets were all linked for auto registration and resolution. When creating the VNet links, it's important to check the "enable autoregistration" box for this feature to work. <br/>
+A Private DNS zone was created for Dannytech.com.The VNets were all linked for auto-registration and resolution. When creating the VNet links, it's important to check the "enable autoregistration" box for this feature to work. <br/>
 <img src="https://i.imgur.com/niF7kfl.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
