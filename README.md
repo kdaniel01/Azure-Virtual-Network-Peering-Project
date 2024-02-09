@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, I created and connected Virtual Networks from different regions which allowed the virtual machines in these networks to communicate with each other. 
+In this project, I created and connected 3 Virtual Networks from different regions which allowed the virtual machines in these regional networks to communicate with each other. 
 <br />
 
 <p align="center">
